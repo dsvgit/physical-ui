@@ -8,7 +8,7 @@ import "./index.css";
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <Button>Subscribe</Button>
+      <Button>Click me!</Button>
     </div>
   </React.StrictMode>,
   document.getElementById("root")
